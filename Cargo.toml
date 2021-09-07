@@ -1,6 +1,6 @@
 [package]
 name = "rust-grid"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Wait_What_ <me.git@waitwhat.help>"]
 edition = "2018"
 description = "Very minimal library to store large grids of any type in memory, with a user-friendly interface"
